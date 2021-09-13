@@ -9,7 +9,7 @@ int main()
 {
     int y = 0;
     cin >> y;
-    cout << "Hello Worl1d!\n"<< y;
+    cout << "Hello Worl1d112321!\n"<< y;
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
